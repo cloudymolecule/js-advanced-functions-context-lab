@@ -1,3 +1,4 @@
+const { expect } = require('chai')
 const helpers = require('./helpers')
 
 describe("The payroll system", function () {
